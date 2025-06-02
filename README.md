@@ -13,7 +13,9 @@ Each file is standalone and includes Tailwind via CDN — just open in your brow
 - `buttons.html` – A variety of styled buttons  
 - `form.html` – Basic form (contact/login style)  
 - `modal.html` – Popup modal with overlay
-- `hover.html` – Hover effects for images, cards, and buttons 
+- `hover.html` – Hover effects for images, cards, and buttons
+- `style.css` – Production-ready compiled Tailwind CSS file (auto-generated)
+ 
 
 📁 `ui-samples/`   
 - `landing-page-1.html` – Simple company card layout (minimal landing page)  
