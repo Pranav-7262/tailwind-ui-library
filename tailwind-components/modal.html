@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Modal</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body class="bg-gray-100 h-screen flex items-center justify-center">
+    <button
+      onclick="document.getElementById('modal').classList.remove('hidden')"
+      class="bg-blue-500 text-white px-4 py-2 rounded"
+    >
+      Open Modal
+    </button>
+
+    <div
+      id="modal"
+      class="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center"
+    >
+      <div class="bg-white p-6 rounded-lg shadow-lg w-96">
+        <h2 class="text-xl font-semibold mb-4">Modal Title</h2>
+        <p class="text-gray-600 mb-4">
+          This is a simple modal built using Tailwind CSS.
+        </p>
+        <button
+          onclick="document.getElementById('modal').classList.add('hidden')"
+          class="bg-red-500 text-white px-4 py-2 rounded"
+        >
+          Close
+        </button>
+      </div>
+    </div>
+  </body>
+</html>
