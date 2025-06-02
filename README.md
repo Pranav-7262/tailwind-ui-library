@@ -15,10 +15,11 @@ Each file is standalone and includes Tailwind via CDN — just open in your brow
 - `modal.html` – Popup modal with overlay
 - `hover.html` – Hover effects for images, cards, and buttons 
 
-📁 `ui-samples/`  
-- `landing-page-1.html` – Clean landing page layout  
-- `landing-page-2.html` – Alternate landing page design  
+📁 `ui-samples/`   
+- `landing-page-1.html` – Simple company card layout (minimal landing page)  
+- `landing-page-2.html` – Stylish landing page for "Doggo City" with images and animations  
 - `facebook-clone.html` – Facebook-like homepage UI clone using Tailwind  
+  
 
 More components coming soon...
 
