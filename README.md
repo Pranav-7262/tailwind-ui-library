@@ -20,5 +20,5 @@ More components coming soon...
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/tailwind-css-components.git
+   git clone https://github.com/Pranav-7262/tailwind-css-components.git
 
