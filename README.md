@@ -7,12 +7,13 @@ Each file is standalone and includes Tailwind via CDN — just open in your brow
 
 ## 🚀 What's Inside
 
-📁 `components/`  
+📁 `tailwind-components/`  
 - `navbar.html` – Simple responsive navbar  
 - `card.html` – Clean card layout with image and text  
 - `buttons.html` – A variety of styled buttons  
 - `form.html` – Basic form (contact/login style)  
-- `modal.html` – Popup modal with overlay  
+- `modal.html` – Popup modal with overlay
+- `hover.html` – Hover effects for images, cards, and buttons 
 
 📁 `ui-samples/`  
 - `landing-page-1.html` – Clean landing page layout  
