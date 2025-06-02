@@ -1,4 +1,4 @@
-# Tailwind CSS Components
+# Tailwind UI Library
 
 A collection of simple, reusable, and responsive HTML UI components styled using **Tailwind CSS**.  
 Each file is standalone and includes Tailwind via CDN — just open in your browser, no setup needed.
